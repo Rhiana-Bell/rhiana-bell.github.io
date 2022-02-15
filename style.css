@@ -1,0 +1,13 @@
+body {
+    background-color:lightcyan;
+    color: lightseagreen;
+}
+p{
+    font-family: serif;
+
+}
+h1{
+    color: mediumslateblue;
+    font-weight: bold;
+    font-family: cursive;
+}
